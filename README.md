@@ -5,7 +5,9 @@ This is the code implementation for my bachelor's research thesis, Automatic Con
 In this research, we used the Caltech-UCSD 200-2011 Bird DataSet (CUB). Additionally, we contributed a second dataset of bird descriptions that correspond to the classes in the CUB dataset. We also used two domain-specific ontologies, Uberon[3] and Pato[4]. 
 
 The datasets can be downloaded from this link. 
+
 CUB Dataset, Image Features and Proposed Split: https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/zero-shot-learning/zero-shot-learning-the-good-the-bad-and-the-ugly/
+
 Text Descriptions Dataset: https://drive.google.com/drive/folders/1p7lGDhOrplwWR38CknxCviLtWG80QPEu?usp=sharing
 
 References
